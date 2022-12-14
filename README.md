@@ -3,6 +3,9 @@
 ![ER diagram](https://user-images.githubusercontent.com/53457487/207079154-b3fb0410-5ffa-4c0f-9103-e315a6affd4b.png)
 
 
+project is hosted on netlify 
+[Yoga Form](https://6398bae24f30ac000887f201--incandescent-bienenstitch-aa4b42.netlify.app/)
+
 
 # Getting Started with Create React App
 
